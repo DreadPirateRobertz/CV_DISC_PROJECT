@@ -55,10 +55,9 @@ def main():
              12 -> :(
              13 -> :(
              
-             IMSHOW is slow as you know what right now and I resized window so you could see everything
-             we could have Matt speed them back up in post editing but the output plays fine so seems moot
-             
              OUTPUT Video plays real well may want to play around with frame rate
+             
+             Note cv2.IMSHOW plays very slow
     
     
     '''
